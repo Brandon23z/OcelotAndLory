@@ -1,34 +1,40 @@
-OcelotAndLory
+**Ocelot & Lory** 
+
+*A 3D platforming adventure game inspired by the classics such as Banjo Kazooie and Ratchet & Clank. 
+The game is made using Unreal Engine 4 and includes controller support.*
 
 Team Lead: Mohamed Nasrallah
+
 Programmer: Omar Elshaikh and Mohamed Nasrallah
+
 AI: Omar Elshaikh
+
 Level Designer: Brandon Manni and Nicholas Rebain
+
 Asset Manager: David Stephanoff
+___________________
+KEYBOARD & MOUSE CONTROLS
+___________________
 
-Ocelot & Lory is a 3D platforming adventure game inspired by the classics such as Banjo Kazooie and Ratchet & Clank. 
-The game is made using Unreal Engine 4 and includes controller support.
+**Move:** W A S D
 
-KEYBOARD & MOUSE
+**Camera:** Mouse
 
-Move: WASD
+**Jump:** Space
 
-Camera: Mouse
+**Sprint:** Left Shift
 
-Jump: Space
+**Attack:** Left Mouse Button
+___________________
+CONTROLLER CONTROLS
+___________________
 
-Sprint: Left Shift
+**Move:** Left Joystick
 
-Attack: Left Mouse Button
+**Camera:** Right Joystick
 
-XINPUT CONTROLLER
+**Jump:** A
 
-Move: Left Joystick
+**Sprint:** Left Trigger/Left Joystick Down
 
-Camera: Right Joystick
-
-Jump: A
-
-Sprint: Left Trigger/Left Joystick Down
-
-Attack: X
+**Attack:** X
